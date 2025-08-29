@@ -24,25 +24,28 @@
 		{
 			title: 'Platform',
 			links: [
-				{ href: '#', text: 'Product' },
-				{ href: '#', text: 'How It Works' },
-				{ href: '#', text: 'Customers' },
+				{ href: '#', text: 'Visual Recognition' },
+				{ href: '#', text: 'Work Instructions' },
+				{ href: '#', text: 'Knowledge Capture' },
 				{ href: '#', text: 'Security' }
 			]
 		},
 		{
-			title: 'Company',
+			title: 'Solutions',
 			links: [
-				{ href: '#', text: 'About' },
-				{ href: '#', text: 'Careers' },
-				{ href: '#', text: 'Contact Us' }
+				{ href: '#', text: 'Manufacturing' },
+				{ href: '#', text: 'Training & Onboarding' },
+				{ href: '#', text: 'Process Standardization' },
+				{ href: '#', text: 'Tribal Knowledge' }
 			]
 		},
 		{
 			title: 'Resources',
 			links: [
-				{ href: '#', text: 'Blog' },
-				{ href: '#', text: 'Case Studies' }
+				{ href: '#', text: 'Case Studies' },
+				{ href: '#', text: 'ROI Calculator' },
+				{ href: '#', text: 'Implementation Guide' },
+				{ href: '#', text: 'Support' }
 			]
 		}
 	];

@@ -73,11 +73,10 @@
         <article class="flex h-full flex-col p-10">
           <div>
             <h4 class="font-display mb-4 text-xl font-light leading-snug text-white">
-              Empower Your Operations Managers
+              Preserve Critical Tribal Knowledge
             </h4>
             <p class="font-body text-base font-light leading-relaxed text-neutral-300">
-              Give your managers the tools to standardize processes, reduce errors, and preserve
-              critical tribal knowledge before it walks out the door.
+              Capture decades of manufacturing expertise from your most experienced workers before they retire, ensuring knowledge continuity across your operations.
             </p>
           </div>
         </article>

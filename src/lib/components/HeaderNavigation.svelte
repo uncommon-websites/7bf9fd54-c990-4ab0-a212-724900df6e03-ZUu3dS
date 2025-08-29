@@ -70,9 +70,9 @@
   {#if isMobileMenuOpen}
     <div class="md:hidden" id="mobile-menu">
       <div class="space-y-1 px-2 pt-2 pb-3 sm:px-3">
-        <a href="#" class="block rounded-md px-3 py-2 font-body text-base font-medium text-neutral-300 hover:bg-neutral-800 hover:text-neutral-50">Product</a>
-        <a href="#" class="block rounded-md px-3 py-2 font-body text-base font-medium text-neutral-300 hover:bg-neutral-800 hover:text-neutral-50">How It Works</a>
-        <a href="#" class="block rounded-md px-3 py-2 font-body text-base font-medium text-neutral-300 hover:bg-neutral-800 hover:text-neutral-50">Customers</a>
+        <a href="#" class="block rounded-md px-3 py-2 font-body text-base font-medium text-neutral-300 hover:bg-neutral-800 hover:text-neutral-50">Platform</a>
+        <a href="#" class="block rounded-md px-3 py-2 font-body text-base font-medium text-neutral-300 hover:bg-neutral-800 hover:text-neutral-50">Solutions</a>
+        <a href="#" class="block rounded-md px-3 py-2 font-body text-base font-medium text-neutral-300 hover:bg-neutral-800 hover:text-neutral-50">Case Studies</a>
         <a href="#" class="block rounded-md px-3 py-2 font-body text-base font-medium text-neutral-300 hover:bg-neutral-800 hover:text-neutral-50">Security</a>
       </div>
       <div class="border-t border-neutral-800 p-4">

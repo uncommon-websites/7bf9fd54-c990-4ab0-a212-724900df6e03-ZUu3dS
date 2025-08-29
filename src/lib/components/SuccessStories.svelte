@@ -13,21 +13,21 @@
   // Data for success stories. Kept inline as per requirements.
   const stories: Story[] = [
     {
-      logoSrc: 'https://www.ledr.com/colours/white.jpg',
-      logoAlt: 'Acme Manufacturing Logo',
-      text: 'How Acme Manufacturing Cut Onboarding Time by 50%',
+      logoSrc: 'https://logo.clearbit.com/caterpillar.com',
+      logoAlt: 'Caterpillar Logo',
+      text: 'How Caterpillar Reduced Training Time by 75% with Visual Work Instructions',
       href: '#'
     },
     {
-      logoSrc: 'https://www.ledr.com/colours/white.jpg',
-      logoAlt: 'Apex Industries Logo',
-      text: 'Apex Industries Reduces Errors by 30% with Standardized Visual Guides',
+      logoSrc: 'https://logo.clearbit.com/boeing.com',
+      logoAlt: 'Boeing Logo',
+      text: 'Boeing Standardizes Complex Assembly Processes Across Multiple Facilities',
       href: '#'
     },
     {
-      logoSrc: 'https://www.ledr.com/colours/white.jpg',
-      logoAlt: 'Pinnacle Machining Logo',
-      text: 'Pinnacle Machining Preserves 20+ Years of Tribal Knowledge',
+      logoSrc: 'https://logo.clearbit.com/ge.com',
+      logoAlt: 'General Electric Logo',
+      text: 'GE Preserves 30+ Years of Manufacturing Expertise Before Mass Retirement',
       href: '#'
     }
   ];

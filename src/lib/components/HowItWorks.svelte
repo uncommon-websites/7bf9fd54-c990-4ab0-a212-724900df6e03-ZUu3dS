@@ -16,7 +16,7 @@
 	const steps: Step[] = [
 		{
 			id: 1,
-			title: 'Record Any Process',
+			title: 'Capture Through Visual Recognition',
 			description:
 				'Simply perform a task on screen or with a camera. Squint’s AI observes and automatically captures every critical step.',
 			imageSrc: 'https://www.ledr.com/colours/white.jpg',
@@ -32,9 +32,9 @@
 		},
 		{
 			id: 3,
-			title: 'Share With Your Team',
+			title: 'Deploy Across Your Operations',
 			description:
-				'Deploy guides to the factory floor. New hires can access instructions on-demand, reducing training time and standardizing work.',
+				'Standardized instructions are instantly available to all team members, reducing new hire training time by 80% and ensuring consistent quality across shifts.',
 			imageSrc: 'https://www.ledr.com/colours/white.jpg',
 			imageAlt: 'A team member accessing a guide on a mobile device.'
 		}

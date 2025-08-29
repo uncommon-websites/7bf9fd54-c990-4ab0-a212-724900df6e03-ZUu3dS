@@ -12,11 +12,11 @@
 	// Using a constant array as the data doesn't change.
 	// This keeps the template clean and maintainable.
 	const logos: Logo[] = [
-		{ src: 'https://www.ledr.com/colours/white.jpg', alt: 'Manufacturing Partner Logo 1' },
-		{ src: 'https://www.ledr.com/colours/white.jpg', alt: 'Manufacturing Partner Logo 2' },
-		{ src: 'https://www.ledr.com/colours/white.jpg', alt: 'Manufacturing Partner Logo 3' },
-		{ src: 'https://www.ledr.com/colours/white.jpg', alt: 'Manufacturing Partner Logo 4' },
-		{ src: 'https://www.ledr.com/colours/white.jpg', alt: 'Manufacturing Partner Logo 5' }
+		{ src: 'https://logo.clearbit.com/caterpillar.com', alt: 'Caterpillar' },
+		{ src: 'https://logo.clearbit.com/boeing.com', alt: 'Boeing' },
+		{ src: 'https://logo.clearbit.com/ge.com', alt: 'General Electric' },
+		{ src: 'https://logo.clearbit.com/honeywell.com', alt: 'Honeywell' },
+		{ src: 'https://logo.clearbit.com/siemens.com', alt: 'Siemens' }
 	];
 </script>
 

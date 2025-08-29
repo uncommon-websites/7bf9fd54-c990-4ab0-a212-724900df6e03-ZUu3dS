@@ -59,8 +59,7 @@
 					</svg>
 					<h3 class="text-xl font-semibold font-display text-neutral-50">SOC 2 Compliant</h3>
 					<p class="mt-2 text-neutral-400 font-body">
-						Squint is built on a foundation that is SOC 2 compliant, ensuring the security,
-						availability, and confidentiality of our platform.
+						Our platform meets SOC 2 Type II compliance standards, ensuring your manufacturing data remains secure, available, and confidential at all times.
 					</p>
 				</div>
 				<div class="border-b border-r-0 border-neutral-800 p-8 md:border-b-0 md:border-r">

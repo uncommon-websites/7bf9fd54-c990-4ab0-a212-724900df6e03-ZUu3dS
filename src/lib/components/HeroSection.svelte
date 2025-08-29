@@ -7,11 +7,10 @@
 	<div class="container mx-auto px-4 sm:px-6 lg:px-8">
 		<div class="mx-auto flex max-w-4xl flex-col items-center text-center">
 			<h1 class="font-display text-5xl font-bold tracking-tight text-white sm:text-7xl">
-				Instantly Document Any Manufacturing Process.
+				Capture Tribal Knowledge Before It Walks Out the Door
 			</h1>
 			<h3 class="font-body mt-6 max-w-3xl text-xl font-light text-gray-200 sm:text-2xl">
-				Squint uses visual recognition to turn complex workflows into simple, step-by-step guides,
-				eliminating outdated manuals and lost knowledge.
+				Squint's visual recognition technology automatically transforms your experienced workers' processes into standardized, step-by-step guides that reduce training time by 80%.
 			</h3>
 			<div
 				class="mt-10 flex w-full flex-col items-center justify-center gap-4 sm:w-auto sm:flex-row sm:gap-8"
